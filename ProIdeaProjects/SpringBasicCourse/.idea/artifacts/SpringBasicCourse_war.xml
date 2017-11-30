@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringBasicCourse:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.yet.spring.core-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SpringBasicCourse:war exploded" />
+    </root>
+  </artifact>
+</component>
